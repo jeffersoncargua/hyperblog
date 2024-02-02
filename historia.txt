@@ -2,6 +2,8 @@ Soy Jeff
 
 Tengo 4 hermanos {Juan, Cris, Bryan y Yadi}
 
-Tengo 1 mascota {Kale}
+Tengo 2 mascotas {Chester y Kale}
 
-Mis platos favoritos {Llapingacho}
+Mis platos favoritos {Llapingacho, sopa de atun}
+
+Mi estatura es de 1.59 cm
