@@ -2,10 +2,6 @@ Soy Jeff
 
 Tengo 4 hermanos {Juan, Cris, Bryan y Yadi}
 
-Tengo 2 mascotas {Chester y Kale}
+Tengo 1 mascota {Kale}
 
-Mis platos favoritos {Llapingacho, sopa de atun}
-
-Mi estatura es de 1.62 m
-
-Su residencia esta en quito
+Ahora se hablara de como va a conseguir empleo
