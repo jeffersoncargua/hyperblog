@@ -6,4 +6,6 @@ Tengo 1 mascota {Kale}
 
 Master 1
 
+Master 2
+
 Ahora se hablara de como va a conseguir empleo
